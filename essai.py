@@ -5,3 +5,4 @@ num = 12
 num1 = 13
 print(num + num1)
 print(num * num1)
+print(num / num1)
