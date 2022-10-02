@@ -1,7 +1,5 @@
 print("essai")
 print("Hamid le Boss")
 print("Hamid le boss")
-num = 12
-num1 = 13
-print(num + num1)
-print(num * num1)
+num = [1, 2, 3, 4, 5, 6, 7, 8, 9]
+print(num)
